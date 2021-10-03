@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SpaceUnity/_Scenes/Demo - Camera Chase Mode.unity
+    guid: b2e292d9b7fe2054e8e3cf2f5e6f1bb5
+  - enabled: 1
+    path: Assets/SpaceUnity/_Scenes/Demo - Camera Orbit Mode.unity
+    guid: a1929cfcbd63620449f8a9ee3e0719fc
+  - enabled: 1
+    path: Assets/SpaceUnity/_Scenes/Demo - Camera Spectator Mode.unity
+    guid: 6382a24ffaf591349b3596d5f62da900
+  - enabled: 1
+    path: Assets/SpaceUnity/_Scenes/Demo - Colorized Blue.unity
+    guid: 0375a7153058e364c908da0412682cb5
+  - enabled: 1
+    path: Assets/SpaceUnity/_Scenes/Demo - Colorized Red.unity
+    guid: 6cab6b580b27d1646a5160b3b2e0ed94
+  - enabled: 1
+    path: Assets/SpaceUnity/_Scenes/Demo - Earth.unity
+    guid: e3658c11a43a3c6418095f6aa1d5a085
+  - enabled: 1
+    path: Assets/SpaceUnity/_Scenes/Demo - Endless Asteroids.unity
+    guid: 72825656bff4350438146955713a4452
+  - enabled: 1
+    path: Assets/SpaceUnity/_Scenes/Demo - Local Asteroids Big.unity
+    guid: 00bde46bb0f41dd44b138c209eebebe0
+  - enabled: 1
+    path: Assets/SpaceUnity/_Scenes/Demo - Local Asteroids Small.unity
+    guid: b1b30ed0dc2f94c4dba7bb9ac5570e75
+  - enabled: 1
+    path: Assets/SpaceUnity/_Scenes/Demo - Maxed Out.unity
+    guid: 66db941bd075b4d48be998d69332ef04
+  - enabled: 1
+    path: Assets/SpaceUnity/_Scenes/Demo - Mirror Dog Fight.unity
+    guid: bc9e392f42042584e8f23dae6cfa6663
+  - enabled: 1
+    path: Assets/SpaceUnity/_Scenes/Demo - Planet Climates.unity
+    guid: bd02f47a430d70f4f86a91d485df830c
+  - enabled: 1
+    path: Assets/SpaceUnity/_Scenes/Demo - Planet Rings.unity
+    guid: 1c38bf975824b8c418d2fd5df4e8dabe
+  - enabled: 1
+    path: Assets/SpaceUnity/_Scenes/Demo - Space Scene Switcher.unity
+    guid: 99215f36623ce8a46bd782d2594492f7
+  - enabled: 1
+    path: Assets/SpaceUnity/_Scenes/Demo - Squadron of Seven.unity
+    guid: 1cbe95864a011554795c2fcdd1f69484
+  - enabled: 1
+    path: Assets/SpaceUnity/_Scenes/Demo - Squadron of Three.unity
+    guid: 5f0d1d105ed54a9459dd58a9339d4d10
+  - enabled: 1
+    path: Assets/SpaceUnity/_Scenes/Template.unity
+    guid: bb1be5949a009504ab4ca569e508b470
+  m_configObjects: {}
