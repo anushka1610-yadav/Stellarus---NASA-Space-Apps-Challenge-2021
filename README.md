@@ -1,1 +1,1 @@
-# Stellarus - NASA Space Apps Challenge-2021
+# Stellarus
